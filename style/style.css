@@ -746,34 +746,9 @@ hr {
   margin-bottom: 120px !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.back-primary {
+  background-color: #EFC81A !important;
+}
 
 @media (min-width: 768px) {
   .title-section {
